@@ -1,0 +1,2 @@
+# Product_Sales-
+Developed predictive models for electronic product sales using historical transaction data, applying preprocessing, feature engineering and exploratory data analysis. Compared XGBoost and LSTM performance, where XGBoost achieved superior results over LSTM, and generated actionable insights for demand planning and inventory management.
